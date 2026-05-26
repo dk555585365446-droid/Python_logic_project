@@ -1,0 +1,7 @@
+# Word Counter
+user = input("enter your story : ")
+b =user.split()
+dr = len(user)
+
+print(b)
+print(dr)
